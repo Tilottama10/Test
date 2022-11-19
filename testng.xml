@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing iPrice Web Apps">
+    <test name="Assessment">
+         <classes>
+             <class name="HomePageTest.java"/>
+             <class name="HomePageSearchTest.java"/>
+             <class name="DressPageTest.java"/>
+          </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->
